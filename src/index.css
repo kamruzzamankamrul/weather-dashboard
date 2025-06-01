@@ -1,0 +1,4 @@
+@import "tailwindcss";
+.container {
+  @apply mx-auto p-5;
+}
